@@ -6,3 +6,5 @@ SHA-256 Hash  – School Project
 •	Penn-tested websites using basic SQL injection commands and analyzed networks using Wireshark identifying packets to find Internet Protocols and Ciphersuites for information security.
 
 Jenkins Notes
+
+Penn Tested Wag-walking with an in-class presentation.
